@@ -85,9 +85,11 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 .accent-span {
     display: block;
 }
+
 .text-center {
     align-self: center;
 }
+
 .text-right {
     align-self: flex-end;
 }
@@ -108,7 +110,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
     white-space: nowrap;
 }
 
-.intro__main-text p  {
+.intro__main-text p {
     padding-bottom: 24px;
 }
 
@@ -129,10 +131,6 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
     display: flex;
     flex-direction: column;
     padding-bottom: 32px;
-}
-
-.text-right {
-    align-self:flex-end
 }
 
 .content-section__introduction {
@@ -208,7 +206,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 
 .footer__line {
     display: block;
-    height: 1px;;
+    height: 1px;
     width: 100%;
     background-color: #FEE42A;
 }
